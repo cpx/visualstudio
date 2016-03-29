@@ -32,6 +32,15 @@ default['visualstudio']['2015']['professional']['package_name'] =
 default['visualstudio']['2015']['professional']['checksum'] =
   '8d6d9a13ccb7f409161518e07e610c12180f415995fa417fa1343a4f2f4ce74b'
 
+# Professional
+default['visualstudio']['2015']['professional_update_1']['installer_file'] = 'vs_professional.exe'
+default['visualstudio']['2015']['professional_update_1']['filename'] =
+  'en_visual_studio_professional_2015_with_update_1_x86_x64_dvd_8234481.iso'
+default['visualstudio']['2015']['professional_update_1']['package_name'] =
+  'Microsoft Visual Studio Professional 2015'
+default['visualstudio']['2015']['professional_update_1']['checksum'] =
+  '7badca090697567ca679159afa21f5d84605bda6a66f99283185dacd24d61e6b'
+
 # Community
 default['visualstudio']['2015']['community']['installer_file'] = 'vs_community.exe'
 default['visualstudio']['2015']['community']['filename'] =
